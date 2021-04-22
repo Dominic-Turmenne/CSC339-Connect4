@@ -1,0 +1,10 @@
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\bin\Debug\CSC339-Connect4.exe.config
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\bin\Debug\CSC339-Connect4.exe
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\bin\Debug\CSC339-Connect4.pdb
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339-Connect4.csprojAssemblyReference.cache
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339_Connect4.Properties.Resources.resources
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339-Connect4.csproj.GenerateResource.cache
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339-Connect4.csproj.CoreCompileInputs.cache
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339-Connect4.exe
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339-Connect4.pdb
+D:\UNCG Stuff\Spring 2021\CSC 339 - Concepts of Prog Lang\CSC339-Connect4\obj\Debug\CSC339_Connect4.Form1.resources
